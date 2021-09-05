@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @kinzarashid
 
 import math
 import os
